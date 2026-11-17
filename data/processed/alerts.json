@@ -1,0 +1,5123 @@
+[
+    {
+        "symbol": "SPY",
+        "date": "2026-11-05",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.4092,
+        "threshold": 3.0,
+        "message": "SPY moved -4.41% on 2026-11-05, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-11-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -4.4092,
+        "threshold": 1.6185,
+        "message": "SPY moved -4.41% on 2026-11-05, exceeding its volatility-adjusted threshold of 1.62%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-11-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.6518,
+        "threshold": 1.403,
+        "message": "SPY moved +1.65% on 2026-11-04, exceeding its volatility-adjusted threshold of 1.40%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-11-04",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.6826,
+        "threshold": 3.0,
+        "message": "GLD moved +3.68% on 2026-11-04, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-11-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.6826,
+        "threshold": 2.7751,
+        "message": "GLD moved +3.68% on 2026-11-04, exceeding its volatility-adjusted threshold of 2.78%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-10-30",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.7729,
+        "threshold": 1.2706,
+        "message": "SPY moved -1.77% on 2026-10-30, exceeding its volatility-adjusted threshold of 1.27%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-10-30",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.4702,
+        "threshold": 3.0,
+        "message": "GLD moved -3.47% on 2026-10-30, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-10-30",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.4702,
+        "threshold": 2.2255,
+        "message": "GLD moved -3.47% on 2026-10-30, exceeding its volatility-adjusted threshold of 2.23%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-10-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.181,
+        "threshold": 1.1129,
+        "message": "SPY moved -1.18% on 2026-10-22, exceeding its volatility-adjusted threshold of 1.11%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-10-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.6257,
+        "threshold": 2.5519,
+        "message": "GLD moved -2.63% on 2026-10-22, exceeding its volatility-adjusted threshold of 2.55%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-09-28",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.9399,
+        "threshold": 3.0,
+        "message": "GLD moved -3.94% on 2026-09-28, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-09-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.9399,
+        "threshold": 2.9074,
+        "message": "GLD moved -3.94% on 2026-09-28, exceeding its volatility-adjusted threshold of 2.91%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-09-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5505,
+        "threshold": 1.1561,
+        "message": "SPY moved +1.55% on 2026-09-21, exceeding its volatility-adjusted threshold of 1.16%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-09-17",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.1339,
+        "threshold": 1.0903,
+        "message": "SPY moved +1.13% on 2026-09-17, exceeding its volatility-adjusted threshold of 1.09%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-09-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.0468,
+        "threshold": 0.929,
+        "message": "SPY moved +1.05% on 2026-09-03, exceeding its volatility-adjusted threshold of 0.93%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2026-09-03",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4632,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.46 over five trading days on 2026-09-03. The current 20-day correlation is +0.45, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-28",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.2442,
+        "threshold": 3.0,
+        "message": "GLD moved -3.24% on 2026-08-28, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.2442,
+        "threshold": 3.2019,
+        "message": "GLD moved -3.24% on 2026-08-28, exceeding its volatility-adjusted threshold of 3.20%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.0433,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.04 on 2026-08-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.488,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.49 on 2026-08-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.1568,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.16 on 2026-08-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-19",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.8364,
+        "threshold": 3.0,
+        "message": "GLD moved +3.84% on 2026-08-19, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-19",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.8364,
+        "threshold": 2.9833,
+        "message": "GLD moved +3.84% on 2026-08-19, exceeding its volatility-adjusted threshold of 2.98%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-05",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 4.1373,
+        "threshold": 3.0,
+        "message": "GLD moved +4.14% on 2026-08-05, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-08-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 4.1373,
+        "threshold": 2.6196,
+        "message": "GLD moved +4.14% on 2026-08-05, exceeding its volatility-adjusted threshold of 2.62%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-08-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8029,
+        "threshold": 1.6783,
+        "message": "SPY moved +1.80% on 2026-08-04, exceeding its volatility-adjusted threshold of 1.68%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-07-30",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.6766,
+        "threshold": 1.3452,
+        "message": "SPY moved +1.68% on 2026-07-30, exceeding its volatility-adjusted threshold of 1.35%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-07-29",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5387,
+        "threshold": 1.2224,
+        "message": "SPY moved -1.54% on 2026-07-29, exceeding its volatility-adjusted threshold of 1.22%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-24",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.0213,
+        "threshold": 3.0,
+        "message": "GLD moved -3.02% on 2026-06-24, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-24",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.6802,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 28.68 on 2026-06-24, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-11",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.1342,
+        "threshold": 3.0,
+        "message": "GLD moved +3.13% on 2026-06-11, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-11",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.1342,
+        "threshold": 2.9945,
+        "message": "GLD moved +3.13% on 2026-06-11, exceeding its volatility-adjusted threshold of 2.99%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-10",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.1456,
+        "threshold": 3.0,
+        "message": "GLD moved -4.15% on 2026-06-10, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -4.1456,
+        "threshold": 2.5211,
+        "message": "GLD moved -4.15% on 2026-06-10, exceeding its volatility-adjusted threshold of 2.52%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-10",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 24.3263,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 24.33 on 2026-06-10, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-06-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.5809,
+        "threshold": 1.1206,
+        "message": "SPY moved -2.58% on 2026-06-05, exceeding its volatility-adjusted threshold of 1.12%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-05",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.6545,
+        "threshold": 3.0,
+        "message": "GLD moved -3.65% on 2026-06-05, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-06-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.6545,
+        "threshold": 1.9907,
+        "message": "GLD moved -3.65% on 2026-06-05, exceeding its volatility-adjusted threshold of 1.99%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-06-02",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.69,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.69 on 2026-06-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-06-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.1839,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.18 on 2026-06-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.1859,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.19 on 2026-05-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.2751,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.28 on 2026-05-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.197,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.20 on 2026-05-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.3588,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.36 on 2026-05-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.6858,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 78.69 on 2026-05-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.4586,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.46 on 2026-05-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.7306,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.73 on 2026-05-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-11",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.1379,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.14 on 2026-05-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-08",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.4952,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.50 on 2026-05-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-07",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.0738,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.07 on 2026-05-07, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-06",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.6598,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.66 on 2026-05-06, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-05-06",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0339,
+        "threshold": 3.0,
+        "message": "GLD moved +3.03% on 2026-05-06, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-05-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.0339,
+        "threshold": 2.6155,
+        "message": "GLD moved +3.03% on 2026-05-06, exceeding its volatility-adjusted threshold of 2.62%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-05",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.4676,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.47 on 2026-05-05, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-05-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.666,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.67 on 2026-05-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-30",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.7482,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.75 on 2026-04-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.9699,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.97 on 2026-04-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.4501,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.45 on 2026-04-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.7281,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.73 on 2026-04-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.2051,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.21 on 2026-04-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.5912,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.59 on 2026-04-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.4453,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.45 on 2026-04-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-04-08",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.547,
+        "threshold": 2.272,
+        "message": "SPY moved +2.55% on 2026-04-08, exceeding its volatility-adjusted threshold of 2.27%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-03-31",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.9068,
+        "threshold": 1.8655,
+        "message": "SPY moved +2.91% on 2026-03-31, exceeding its volatility-adjusted threshold of 1.87%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-31",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.7894,
+        "threshold": 3.0,
+        "message": "GLD moved +3.79% on 2026-03-31, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-03-30",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 27.725,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 27.73 on 2026-03-30, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-03-27",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.5297,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 28.53 on 2026-03-27, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-27",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.5094,
+        "threshold": 3.0,
+        "message": "GLD moved +3.51% on 2026-03-27, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-03-26",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.7859,
+        "threshold": 1.6354,
+        "message": "SPY moved -1.79% on 2026-03-26, exceeding its volatility-adjusted threshold of 1.64%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-26",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.7594,
+        "threshold": 3.0,
+        "message": "GLD moved -3.76% on 2026-03-26, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-25",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0089,
+        "threshold": 3.0,
+        "message": "GLD moved +3.01% on 2026-03-25, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-24",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 27.5053,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 27.51 on 2026-03-24, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-23",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 27.4456,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 27.45 on 2026-03-23, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-20",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.0557,
+        "threshold": 3.0,
+        "message": "GLD moved -3.06% on 2026-03-20, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-20",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.8106,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 29.81 on 2026-03-20, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-19",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.1215,
+        "threshold": 3.0,
+        "message": "GLD moved -4.12% on 2026-03-19, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-19",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -4.1215,
+        "threshold": 3.5101,
+        "message": "GLD moved -4.12% on 2026-03-19, exceeding its volatility-adjusted threshold of 3.51%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-18",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.1637,
+        "threshold": 3.0,
+        "message": "GLD moved -3.16% on 2026-03-18, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-03-12",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5185,
+        "threshold": 1.4472,
+        "message": "SPY moved -1.52% on 2026-03-12, exceeding its volatility-adjusted threshold of 1.45%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-03-03",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.4612,
+        "threshold": 3.0,
+        "message": "GLD moved -4.46% on 2026-03-03, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-02-17",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.117,
+        "threshold": 3.0,
+        "message": "GLD moved -3.12% on 2026-02-17, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-02-12",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.4728,
+        "threshold": 3.0,
+        "message": "GLD moved -3.47% on 2026-02-12, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-02-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9185,
+        "threshold": 1.4314,
+        "message": "SPY moved +1.92% on 2026-02-06, exceeding its volatility-adjusted threshold of 1.43%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-02-06",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0732,
+        "threshold": 3.0,
+        "message": "GLD moved +3.07% on 2026-02-06, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-02-03",
+        "alert_type": "large_price_move",
+        "severity": "high",
+        "observed_value": 6.3587,
+        "threshold": 3.0,
+        "message": "GLD moved +6.36% on 2026-02-03, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-02-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 6.3587,
+        "threshold": 6.1296,
+        "message": "GLD moved +6.36% on 2026-02-03, exceeding its volatility-adjusted threshold of 6.13%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-02-02",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.0049,
+        "threshold": 3.0,
+        "message": "GLD moved -4.00% on 2026-02-02, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-30",
+        "alert_type": "large_price_move",
+        "severity": "high",
+        "observed_value": -10.2742,
+        "threshold": 3.0,
+        "message": "GLD moved -10.27% on 2026-01-30, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-30",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "high",
+        "observed_value": -10.2742,
+        "threshold": 2.7658,
+        "message": "GLD moved -10.27% on 2026-01-30, exceeding its volatility-adjusted threshold of 2.77%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-29",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 88.2974,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 88.30 on 2026-01-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-28",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.8773,
+        "threshold": 3.0,
+        "message": "GLD moved +3.88% on 2026-01-28, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.8773,
+        "threshold": 3.4098,
+        "message": "GLD moved +3.88% on 2026-01-28, exceeding its volatility-adjusted threshold of 3.41%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-28",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 88.1125,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 88.11 on 2026-01-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-27",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 85.1001,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 85.10 on 2026-01-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-26",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 82.5669,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 82.57 on 2026-01-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2026-01-26",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4343,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.43 over five trading days on 2026-01-26. The current 20-day correlation is +0.02, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-23",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.7839,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.78 on 2026-01-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.9292,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.93 on 2026-01-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.1047,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 76.10 on 2026-01-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2026-01-20",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.0357,
+        "threshold": 0.9201,
+        "message": "SPY moved -2.04% on 2026-01-20, exceeding its volatility-adjusted threshold of 0.92%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-20",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.7836,
+        "threshold": 3.0,
+        "message": "GLD moved +3.78% on 2026-01-20, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-20",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.7836,
+        "threshold": 2.9643,
+        "message": "GLD moved +3.78% on 2026-01-20, exceeding its volatility-adjusted threshold of 2.96%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.5434,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.54 on 2026-01-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.8814,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.88 on 2026-01-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2026-01-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.6313,
+        "threshold": 2.5374,
+        "message": "GLD moved +2.63% on 2026-01-05, exceeding its volatility-adjusted threshold of 2.54%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-29",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.3528,
+        "threshold": 3.0,
+        "message": "GLD moved -4.35% on 2025-12-29, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-29",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -4.3528,
+        "threshold": 1.4537,
+        "message": "GLD moved -4.35% on 2025-12-29, exceeding its volatility-adjusted threshold of 1.45%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-26",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.2042,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.20 on 2025-12-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.5725,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.57 on 2025-12-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-23",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.1331,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 81.13 on 2025-12-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.3082,
+        "threshold": 1.1436,
+        "message": "GLD moved +2.31% on 2025-12-22, exceeding its volatility-adjusted threshold of 1.14%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.1926,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.19 on 2025-12-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.0632,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.06 on 2025-12-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.6275,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.63 on 2025-12-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-12-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.2435,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.24 on 2025-12-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-12-01",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4746,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.47 over five trading days on 2025-12-01. The current 20-day correlation is +0.61, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-11-28",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4668,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.47 over five trading days on 2025-11-28. The current 20-day correlation is +0.59, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-11-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.6594,
+        "threshold": 1.5059,
+        "message": "SPY moved -1.66% on 2025-11-13, exceeding its volatility-adjusted threshold of 1.51%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-11-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5604,
+        "threshold": 1.5109,
+        "message": "SPY moved +1.56% on 2025-11-10, exceeding its volatility-adjusted threshold of 1.51%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-21",
+        "alert_type": "large_price_move",
+        "severity": "high",
+        "observed_value": -6.4269,
+        "threshold": 3.0,
+        "message": "GLD moved -6.43% on 2025-10-21, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -6.4269,
+        "threshold": 2.749,
+        "message": "GLD moved -6.43% on 2025-10-21, exceeding its volatility-adjusted threshold of 2.75%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-20",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.6402,
+        "threshold": 3.0,
+        "message": "GLD moved +3.64% on 2025-10-20, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-20",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.6402,
+        "threshold": 2.4484,
+        "message": "GLD moved +3.64% on 2025-10-20, exceeding its volatility-adjusted threshold of 2.45%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-20",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.2276,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.23 on 2025-10-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.3193,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.32 on 2025-10-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-16",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.3387,
+        "threshold": 2.0758,
+        "message": "GLD moved +2.34% on 2025-10-16, exceeding its volatility-adjusted threshold of 2.08%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-16",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 85.7303,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 85.73 on 2025-10-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-15",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 83.0952,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 83.10 on 2025-10-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-14",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.6821,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.68 on 2025-10-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-10-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5344,
+        "threshold": 1.4725,
+        "message": "SPY moved +1.53% on 2025-10-13, exceeding its volatility-adjusted threshold of 1.47%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.4301,
+        "threshold": 1.947,
+        "message": "GLD moved +2.43% on 2025-10-13, exceeding its volatility-adjusted threshold of 1.95%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.5745,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 79.57 on 2025-10-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-10-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "high",
+        "observed_value": -2.7028,
+        "threshold": 0.7581,
+        "message": "SPY moved -2.70% on 2025-10-10, exceeding its volatility-adjusted threshold of 0.76%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-10",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.1855,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.19 on 2025-10-10, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-09",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.8453,
+        "threshold": 1.6382,
+        "message": "GLD moved -1.85% on 2025-10-09, exceeding its volatility-adjusted threshold of 1.64%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-09",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.9666,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.97 on 2025-10-09, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-10-08",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.3117,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.31 on 2025-10-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-08",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.6491,
+        "threshold": 1.5518,
+        "message": "GLD moved +1.65% on 2025-10-08, exceeding its volatility-adjusted threshold of 1.55%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-08",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 86.3091,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 86.31 on 2025-10-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-07",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 83.9067,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 83.91 on 2025-10-07, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-10-06",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.8302,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.83 on 2025-10-06, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8846,
+        "threshold": 1.4682,
+        "message": "GLD moved +1.88% on 2025-10-06, exceeding its volatility-adjusted threshold of 1.47%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-06",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 83.0468,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 83.05 on 2025-10-06, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-10-06",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4623,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.46 over five trading days on 2025-10-06. The current 20-day correlation is +0.32, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-03",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.3792,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 79.38 on 2025-10-03, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-10-03",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.5092,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.51 over five trading days on 2025-10-03. The current 20-day correlation is +0.31, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-02",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.465,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.47 on 2025-10-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-10-02",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4226,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.42 over five trading days on 2025-10-02. The current 20-day correlation is +0.22, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-10-01",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.4834,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.48 on 2025-10-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-30",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.1592,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.16 on 2025-09-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-09-30",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4585,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.46 over five trading days on 2025-09-30. The current 20-day correlation is +0.13, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.3655,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.37 on 2025-09-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.259,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.26 on 2025-09-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.5775,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.58 on 2025-09-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.3277,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.33 on 2025-09-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-23",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.635,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.63 on 2025-09-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-09-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.7953,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.80 on 2025-09-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.7306,
+        "threshold": 1.5234,
+        "message": "GLD moved +1.73% on 2025-09-22, exceeding its volatility-adjusted threshold of 1.52%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.6816,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.68 on 2025-09-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-09-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.5638,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.56 on 2025-09-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.029,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.03 on 2025-09-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.8538,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.85 on 2025-09-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.9321,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 79.93 on 2025-09-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-09-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.4713,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.47 on 2025-09-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.4509,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 79.45 on 2025-09-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.7999,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 76.80 on 2025-09-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-11",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.2622,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 76.26 on 2025-09-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-10",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.5263,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.53 on 2025-09-10, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-09",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.6642,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 76.66 on 2025-09-09, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-08",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.4336,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.43 on 2025-09-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-05",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.8682,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.87 on 2025-09-05, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-04",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.3342,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.33 on 2025-09-04, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-03",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.7605,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.76 on 2025-09-03, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.3643,
+        "threshold": 1.296,
+        "message": "GLD moved +2.36% on 2025-09-02, exceeding its volatility-adjusted threshold of 1.30%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-09-02",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.7284,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.73 on 2025-09-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-08-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5357,
+        "threshold": 1.3556,
+        "message": "SPY moved +1.54% on 2025-08-22, exceeding its volatility-adjusted threshold of 1.36%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-08-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.52,
+        "threshold": 1.0925,
+        "message": "SPY moved +1.52% on 2025-08-04, exceeding its volatility-adjusted threshold of 1.09%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-08-01",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.639,
+        "threshold": 0.8514,
+        "message": "SPY moved -1.64% on 2025-08-01, exceeding its volatility-adjusted threshold of 0.85%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-08-01",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.03,
+        "threshold": 1.6642,
+        "message": "GLD moved +2.03% on 2025-08-01, exceeding its volatility-adjusted threshold of 1.66%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-30",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.1251,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.13 on 2025-07-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-07-30",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.7273,
+        "threshold": 1.5229,
+        "message": "GLD moved -1.73% on 2025-07-30, exceeding its volatility-adjusted threshold of 1.52%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.9582,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.96 on 2025-07-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.8231,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.82 on 2025-07-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.185,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.18 on 2025-07-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.2753,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.28 on 2025-07-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-23",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.1244,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.12 on 2025-07-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-10",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.9467,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.95 on 2025-07-10, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-09",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.8397,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.84 on 2025-07-09, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-03",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.8053,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.81 on 2025-07-03, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-02",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.1788,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.18 on 2025-07-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-07-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.5358,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.54 on 2025-07-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-06-30",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.8275,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.83 on 2025-06-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-06-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.1662,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.17 on 2025-06-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-05-27",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.0791,
+        "threshold": 1.9966,
+        "message": "SPY moved +2.08% on 2025-05-27, exceeding its volatility-adjusted threshold of 2.00%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-05-14",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": -0.6602,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.66 over five trading days on 2025-05-14. The current 20-day correlation is -0.69, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-05-13",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": -0.695,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.70 over five trading days on 2025-05-13. The current 20-day correlation is -0.73, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-05-12",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.3047,
+        "threshold": 3.0,
+        "message": "SPY moved +3.30% on 2025-05-12, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-05-12",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.3047,
+        "threshold": 2.5535,
+        "message": "SPY moved +3.30% on 2025-05-12, exceeding its volatility-adjusted threshold of 2.55%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-05-12",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": -0.7481,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.75 over five trading days on 2025-05-12. The current 20-day correlation is -0.73, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-05-09",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": -0.7749,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.77 over five trading days on 2025-05-09. The current 20-day correlation is -0.60, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-05-08",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": -0.8048,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.80 over five trading days on 2025-05-08. The current 20-day correlation is -0.61, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.2101,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.21 on 2025-04-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-21",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0936,
+        "threshold": 3.0,
+        "message": "GLD moved +3.09% on 2025-04-21, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.5599,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.56 on 2025-04-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.799,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.80 on 2025-04-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-16",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.2541,
+        "threshold": 3.0,
+        "message": "GLD moved +3.25% on 2025-04-16, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-16",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.2541,
+        "threshold": 2.8408,
+        "message": "GLD moved +3.25% on 2025-04-16, exceeding its volatility-adjusted threshold of 2.84%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.9026,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.90 on 2025-04-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-11",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.4081,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.41 on 2025-04-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-10",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.3819,
+        "threshold": 3.0,
+        "message": "SPY moved -4.38% on 2025-04-10, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-04-10",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4027,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.40 over five trading days on 2025-04-10. The current 20-day correlation is +0.51, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-09",
+        "alert_type": "large_price_move",
+        "severity": "high",
+        "observed_value": 10.5019,
+        "threshold": 3.0,
+        "message": "SPY moved +10.50% on 2025-04-09, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-09",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 10.5019,
+        "threshold": 3.9613,
+        "message": "SPY moved +10.50% on 2025-04-09, exceeding its volatility-adjusted threshold of 3.96%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-09",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.6991,
+        "threshold": 3.0,
+        "message": "GLD moved +3.70% on 2025-04-09, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-09",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.6991,
+        "threshold": 2.1126,
+        "message": "GLD moved +3.70% on 2025-04-09, exceeding its volatility-adjusted threshold of 2.11%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-04-09",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": 0.6763,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.68 over five trading days on 2025-04-09. The current 20-day correlation is +0.64, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-08",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 21.5873,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 21.59 on 2025-04-08, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-07",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 23.2427,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 23.24 on 2025-04-07, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-07",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.1486,
+        "threshold": 1.9361,
+        "message": "GLD moved -2.15% on 2025-04-07, exceeding its volatility-adjusted threshold of 1.94%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-04",
+        "alert_type": "large_price_move",
+        "severity": "high",
+        "observed_value": -5.8543,
+        "threshold": 3.0,
+        "message": "SPY moved -5.85% on 2025-04-04, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -5.8543,
+        "threshold": 3.2357,
+        "message": "SPY moved -5.85% on 2025-04-04, exceeding its volatility-adjusted threshold of 3.24%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-04",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 23.4328,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 23.43 on 2025-04-04, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.3392,
+        "threshold": 1.5245,
+        "message": "GLD moved -2.34% on 2025-04-04, exceeding its volatility-adjusted threshold of 1.52%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-04-04",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": 0.6286,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.63 over five trading days on 2025-04-04. The current 20-day correlation is +0.45, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-03",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.9281,
+        "threshold": 3.0,
+        "message": "SPY moved -4.93% on 2025-04-03, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-04-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -4.9281,
+        "threshold": 2.5119,
+        "message": "SPY moved -4.93% on 2025-04-03, exceeding its volatility-adjusted threshold of 2.51%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-02",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.9189,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.92 on 2025-04-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-04-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.3125,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.31 on 2025-04-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-03-31",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.96,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.96 on 2025-03-31, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-03-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.8054,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.81 on 2025-03-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-03-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.3203,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.32 on 2025-03-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-03-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.3645,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.36 on 2025-03-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-03-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.1726,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.17 on 2025-03-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-03-13",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.181,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 28.18 on 2025-03-13, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-03-11",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.3703,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 28.37 on 2025-03-11, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-03-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.6636,
+        "threshold": 2.0012,
+        "message": "SPY moved -2.66% on 2025-03-10, exceeding its volatility-adjusted threshold of 2.00%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-03-06",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.409,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.41 over five trading days on 2025-03-06. The current 20-day correlation is +0.15, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-03-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.752,
+        "threshold": 1.6237,
+        "message": "SPY moved -1.75% on 2025-03-03, exceeding its volatility-adjusted threshold of 1.62%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-02-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5606,
+        "threshold": 1.4613,
+        "message": "SPY moved +1.56% on 2025-02-28, exceeding its volatility-adjusted threshold of 1.46%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-02-27",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5962,
+        "threshold": 1.3017,
+        "message": "SPY moved -1.60% on 2025-02-27, exceeding its volatility-adjusted threshold of 1.30%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.2837,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.28 on 2025-02-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2025-02-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.7104,
+        "threshold": 1.2894,
+        "message": "SPY moved -1.71% on 2025-02-21, exceeding its volatility-adjusted threshold of 1.29%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.4539,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.45 on 2025-02-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.1961,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.20 on 2025-02-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.0375,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.04 on 2025-02-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.8779,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.88 on 2025-02-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-14",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.4872,
+        "threshold": 1.4797,
+        "message": "GLD moved -1.49% on 2025-02-14, exceeding its volatility-adjusted threshold of 1.48%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.3089,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.31 on 2025-02-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.5752,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.58 on 2025-02-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-11",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.2699,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.27 on 2025-02-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.6938,
+        "threshold": 1.4561,
+        "message": "GLD moved +1.69% on 2025-02-10, exceeding its volatility-adjusted threshold of 1.46%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-10",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.2859,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.29 on 2025-02-10, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-07",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.5675,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.57 on 2025-02-07, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-06",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.9996,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.00 on 2025-02-06, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-05",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.1217,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.12 on 2025-02-05, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-02-04",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.3603,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.36 on 2025-02-04, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2025-01-30",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5146,
+        "threshold": 1.5045,
+        "message": "GLD moved +1.51% on 2025-01-30, exceeding its volatility-adjusted threshold of 1.50%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-01-24",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4236,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.42 over five trading days on 2025-01-24. The current 20-day correlation is -0.08, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2025-01-23",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4479,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.45 over five trading days on 2025-01-23. The current 20-day correlation is -0.09, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-12-18",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "high",
+        "observed_value": -2.9803,
+        "threshold": 0.8044,
+        "message": "SPY moved -2.98% on 2024-12-18, exceeding its volatility-adjusted threshold of 0.80%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-12-04",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.7705,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.77 on 2024-12-04, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-11-25",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.9459,
+        "threshold": 2.5463,
+        "message": "GLD moved -2.95% on 2024-11-25, exceeding its volatility-adjusted threshold of 2.55%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-11-12",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.536,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.54 over five trading days on 2024-11-12. The current 20-day correlation is -0.07, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-11-11",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.3472,
+        "threshold": 2.1264,
+        "message": "GLD moved -2.35% on 2024-11-11, exceeding its volatility-adjusted threshold of 2.13%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-11-11",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4771,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.48 over five trading days on 2024-11-11. The current 20-day correlation is -0.10, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-11-08",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.5242,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.52 over five trading days on 2024-11-08. The current 20-day correlation is -0.13, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-11-07",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4694,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.47 over five trading days on 2024-11-07. The current 20-day correlation is -0.09, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-11-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.4866,
+        "threshold": 1.385,
+        "message": "SPY moved +2.49% on 2024-11-06, exceeding its volatility-adjusted threshold of 1.39%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-11-06",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.0387,
+        "threshold": 3.0,
+        "message": "GLD moved -3.04% on 2024-11-06, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-11-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.0387,
+        "threshold": 1.4708,
+        "message": "GLD moved -3.04% on 2024-11-06, exceeding its volatility-adjusted threshold of 1.47%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-11-01",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4576,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.46 over five trading days on 2024-11-01. The current 20-day correlation is +0.40, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-10-31",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.9603,
+        "threshold": 1.1221,
+        "message": "SPY moved -1.96% on 2024-10-31, exceeding its volatility-adjusted threshold of 1.12%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-10-31",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5495,
+        "threshold": 1.3158,
+        "message": "GLD moved -1.55% on 2024-10-31, exceeding its volatility-adjusted threshold of 1.32%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-10-31",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4124,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.41 over five trading days on 2024-10-31. The current 20-day correlation is +0.38, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-10-30",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.5134,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.51 on 2024-10-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-10-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.707,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.71 on 2024-10-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-10-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.1688,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.17 on 2024-10-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-10-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.4567,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.46 on 2024-10-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-10-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.6402,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.64 on 2024-10-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-09-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.7371,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.74 on 2024-09-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-09-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.302,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.30 on 2024-09-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-09-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.369,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.37 on 2024-09-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-09-23",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.3769,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.38 on 2024-09-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-09-19",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5541,
+        "threshold": 1.5179,
+        "message": "GLD moved +1.55% on 2024-09-19, exceeding its volatility-adjusted threshold of 1.52%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-09-12",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.7567,
+        "threshold": 1.5775,
+        "message": "GLD moved +1.76% on 2024-09-12, exceeding its volatility-adjusted threshold of 1.58%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-08-16",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.2388,
+        "threshold": 2.0499,
+        "message": "GLD moved +2.24% on 2024-08-16, exceeding its volatility-adjusted threshold of 2.05%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-08-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.9124,
+        "threshold": 2.0994,
+        "message": "SPY moved -2.91% on 2024-08-05, exceeding its volatility-adjusted threshold of 2.10%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-24",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.2662,
+        "threshold": 1.2827,
+        "message": "SPY moved -2.27% on 2024-07-24, exceeding its volatility-adjusted threshold of 1.28%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-07-22",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4533,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.45 over five trading days on 2024-07-22. The current 20-day correlation is +0.26, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-07-19",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4818,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.48 over five trading days on 2024-07-19. The current 20-day correlation is +0.29, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-17",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.4021,
+        "threshold": 0.9058,
+        "message": "SPY moved -1.40% on 2024-07-17, exceeding its volatility-adjusted threshold of 0.91%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.7725,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.77 on 2024-07-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-07-16",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9926,
+        "threshold": 1.803,
+        "message": "GLD moved +1.99% on 2024-07-16, exceeding its volatility-adjusted threshold of 1.80%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-07-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.2375,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.24 on 2024-07-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.2575,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.26 on 2024-07-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.002,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.00 on 2024-07-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-11",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -0.8622,
+        "threshold": 0.7656,
+        "message": "SPY moved -0.86% on 2024-07-11, exceeding its volatility-adjusted threshold of 0.77%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-07-11",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.7733,
+        "threshold": 1.7108,
+        "message": "GLD moved +1.77% on 2024-07-11, exceeding its volatility-adjusted threshold of 1.71%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 0.9895,
+        "threshold": 0.6835,
+        "message": "SPY moved +0.99% on 2024-07-10, exceeding its volatility-adjusted threshold of 0.68%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-10",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.9751,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 81.98 on 2024-07-10, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-09",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.9545,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 77.95 on 2024-07-09, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-08",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.4968,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 77.50 on 2024-07-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-05",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.9708,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.97 on 2024-07-05, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-03",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.1865,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.19 on 2024-07-03, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-07-02",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.742,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.74 on 2024-07-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.7373,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.74 on 2024-06-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.7932,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.79 on 2024-06-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.0588,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.06 on 2024-06-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.129,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.13 on 2024-06-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.9653,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.97 on 2024-06-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.6966,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 77.70 on 2024-06-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.6774,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.68 on 2024-06-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.1343,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.13 on 2024-06-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.8418,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.84 on 2024-06-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.903,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.90 on 2024-06-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-06-07",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.5683,
+        "threshold": 3.0,
+        "message": "GLD moved -3.57% on 2024-06-07, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-06-07",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.5683,
+        "threshold": 2.1856,
+        "message": "GLD moved -3.57% on 2024-06-07, exceeding its volatility-adjusted threshold of 2.19%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-06-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.1885,
+        "threshold": 1.0071,
+        "message": "SPY moved +1.19% on 2024-06-05, exceeding its volatility-adjusted threshold of 1.01%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-05-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.8374,
+        "threshold": 1.821,
+        "message": "GLD moved -1.84% on 2024-05-22, exceeding its volatility-adjusted threshold of 1.82%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-05-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.4557,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.46 on 2024-05-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-05-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.0486,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.05 on 2024-05-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-04-26",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4217,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.42 over five trading days on 2024-04-26. The current 20-day correlation is +0.11, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.4702,
+        "threshold": 1.9204,
+        "message": "GLD moved -2.47% on 2024-04-22, exceeding its volatility-adjusted threshold of 1.92%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.3798,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.38 on 2024-04-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.5505,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.55 on 2024-04-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.6614,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.66 on 2024-04-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.4178,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.42 on 2024-04-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-15",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8719,
+        "threshold": 1.8212,
+        "message": "GLD moved +1.87% on 2024-04-15, exceeding its volatility-adjusted threshold of 1.82%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.1607,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.16 on 2024-04-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-04-12",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.3803,
+        "threshold": 1.2632,
+        "message": "SPY moved -1.38% on 2024-04-12, exceeding its volatility-adjusted threshold of 1.26%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.9115,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.91 on 2024-04-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-04-12",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.5123,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.51 over five trading days on 2024-04-12. The current 20-day correlation is +0.65, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-11",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9433,
+        "threshold": 1.5324,
+        "message": "GLD moved +1.94% on 2024-04-11, exceeding its volatility-adjusted threshold of 1.53%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-11",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 80.0223,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 80.02 on 2024-04-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-04-11",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.5464,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.55 over five trading days on 2024-04-11. The current 20-day correlation is +0.56, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-10",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.8787,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.88 on 2024-04-10, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-04-10",
+        "alert_type": "correlation_shift",
+        "severity": "high",
+        "observed_value": 0.6248,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.62 over five trading days on 2024-04-10. The current 20-day correlation is +0.50, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-09",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 83.8151,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 83.82 on 2024-04-09, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-08",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 82.8531,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 82.85 on 2024-04-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.7114,
+        "threshold": 1.4443,
+        "message": "GLD moved +1.71% on 2024-04-05, exceeding its volatility-adjusted threshold of 1.44%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-05",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.7168,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 81.72 on 2024-04-05, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-04-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.2206,
+        "threshold": 1.1105,
+        "message": "SPY moved -1.22% on 2024-04-04, exceeding its volatility-adjusted threshold of 1.11%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-04",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.0714,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.07 on 2024-04-04, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-03",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 83.2669,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 83.27 on 2024-04-03, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.4772,
+        "threshold": 1.4078,
+        "message": "GLD moved +1.48% on 2024-04-02, exceeding its volatility-adjusted threshold of 1.41%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-02",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.5368,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 81.54 on 2024-04-02, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-04-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.0377,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 78.04 on 2024-04-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.0321,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.03 on 2024-03-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.3278,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.33 on 2024-03-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.5584,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.56 on 2024-03-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.5827,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.58 on 2024-03-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.962,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.96 on 2024-03-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.7203,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.72 on 2024-03-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2024-03-13",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4073,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.41 over five trading days on 2024-03-13. The current 20-day correlation is -0.17, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.4632,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.46 on 2024-03-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-11",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 83.3746,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 83.37 on 2024-03-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-08",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 82.9761,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 82.98 on 2024-03-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-07",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.0495,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 81.05 on 2024-03-07, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-06",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.6173,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 79.62 on 2024-03-06, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-05",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.3372,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 77.34 on 2024-03-05, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.6175,
+        "threshold": 1.3552,
+        "message": "GLD moved +1.62% on 2024-03-04, exceeding its volatility-adjusted threshold of 1.36%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-04",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.4822,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 75.48 on 2024-03-04, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-03-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.9761,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.98 on 2024-03-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-03-01",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8911,
+        "threshold": 1.1523,
+        "message": "GLD moved +1.89% on 2024-03-01, exceeding its volatility-adjusted threshold of 1.15%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-02-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.0695,
+        "threshold": 1.53,
+        "message": "SPY moved +2.07% on 2024-02-22, exceeding its volatility-adjusted threshold of 1.53%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2024-02-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.3789,
+        "threshold": 1.2338,
+        "message": "GLD moved -1.38% on 2024-02-13, exceeding its volatility-adjusted threshold of 1.23%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-02-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.3464,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.35 on 2024-02-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-02-09",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.7983,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.80 on 2024-02-09, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-02-08",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.5634,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.56 on 2024-02-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-02-07",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.3909,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.39 on 2024-02-07, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-31",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.6317,
+        "threshold": 1.1994,
+        "message": "SPY moved -1.63% on 2024-01-31, exceeding its volatility-adjusted threshold of 1.20%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-30",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.3759,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.38 on 2024-01-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.3383,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.34 on 2024-01-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.9091,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.91 on 2024-01-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.432,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.43 on 2024-01-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.0039,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.00 on 2024-01-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-23",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.5013,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.50 on 2024-01-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2024-01-08",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.4276,
+        "threshold": 1.2615,
+        "message": "SPY moved +1.43% on 2024-01-08, exceeding its volatility-adjusted threshold of 1.26%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.544,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.54 on 2023-12-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.8213,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.82 on 2023-12-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.6731,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.67 on 2023-12-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.9952,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.00 on 2023-12-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.4052,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.41 on 2023-12-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.6428,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.64 on 2023-12-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-20",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.3857,
+        "threshold": 0.9008,
+        "message": "SPY moved -1.39% on 2023-12-20, exceeding its volatility-adjusted threshold of 0.90%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-19",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.4718,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 81.47 on 2023-12-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.6629,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 79.66 on 2023-12-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 77.8126,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 77.81 on 2023-12-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 79.7889,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 79.79 on 2023-12-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.379,
+        "threshold": 1.0596,
+        "message": "SPY moved +1.38% on 2023-12-13, exceeding its volatility-adjusted threshold of 1.06%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 78.8183,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 78.82 on 2023-12-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-12-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.2563,
+        "threshold": 1.8932,
+        "message": "GLD moved +2.26% on 2023-12-13, exceeding its volatility-adjusted threshold of 1.89%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.8819,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.88 on 2023-12-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-11",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.8753,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.88 on 2023-12-11, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-08",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.0635,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.06 on 2023-12-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-12-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.1613,
+        "threshold": 1.5795,
+        "message": "GLD moved -2.16% on 2023-12-04, exceeding its volatility-adjusted threshold of 1.58%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-12-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.1189,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 74.12 on 2023-12-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-12-01",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.7271,
+        "threshold": 1.4124,
+        "message": "GLD moved +1.73% on 2023-12-01, exceeding its volatility-adjusted threshold of 1.41%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-12-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.283,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.28 on 2023-12-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-30",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.6345,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.63 on 2023-11-30, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-11-29",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.8137,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.81 on 2023-11-29, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.5892,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.59 on 2023-11-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-11-28",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.2823,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.28 on 2023-11-28, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.1788,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.18 on 2023-11-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.8753,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.88 on 2023-11-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-22",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.6581,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.66 on 2023-11-22, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-21",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.328,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.33 on 2023-11-21, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.1056,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.11 on 2023-11-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-11-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9164,
+        "threshold": 1.7944,
+        "message": "SPY moved +1.92% on 2023-11-02, exceeding its volatility-adjusted threshold of 1.79%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-10-27",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.2212,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 29.22 on 2023-10-27, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-27",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.5306,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.53 on 2023-10-27, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.557,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.56 on 2023-10-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.0589,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.06 on 2023-10-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.2237,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.22 on 2023-10-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-13",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.2148,
+        "threshold": 3.0,
+        "message": "GLD moved +3.21% on 2023-10-13, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.2148,
+        "threshold": 1.483,
+        "message": "GLD moved +3.21% on 2023-10-13, exceeding its volatility-adjusted threshold of 1.48%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-09",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8385,
+        "threshold": 1.1107,
+        "message": "GLD moved +1.84% on 2023-10-09, exceeding its volatility-adjusted threshold of 1.11%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-06",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.145,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.15 on 2023-10-06, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-05",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 20.0425,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 20.04 on 2023-10-05, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-04",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 20.6058,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 20.61 on 2023-10-04, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-10-03",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.0211,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 29.02 on 2023-10-03, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-03",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 20.6406,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 20.64 on 2023-10-03, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2023-10-03",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4168,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.42 over five trading days on 2023-10-03. The current 20-day correlation is +0.10, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.0499,
+        "threshold": 1.0496,
+        "message": "GLD moved -1.05% on 2023-10-02, exceeding its volatility-adjusted threshold of 1.05%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-10-02",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 21.4642,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 21.46 on 2023-10-02, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-09-29",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.0275,
+        "threshold": 0.9824,
+        "message": "GLD moved -1.03% on 2023-09-29, exceeding its volatility-adjusted threshold of 0.98%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-09-29",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 24.8462,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 24.85 on 2023-09-29, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-09-28",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.0492,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 29.05 on 2023-09-28, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-09-27",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.2367,
+        "threshold": 0.9802,
+        "message": "GLD moved -1.24% on 2023-09-27, exceeding its volatility-adjusted threshold of 0.98%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-09-26",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.4691,
+        "threshold": 1.4634,
+        "message": "SPY moved -1.47% on 2023-09-26, exceeding its volatility-adjusted threshold of 1.46%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-09-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.6528,
+        "threshold": 1.5184,
+        "message": "SPY moved -1.65% on 2023-09-21, exceeding its volatility-adjusted threshold of 1.52%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-08-29",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 0.9768,
+        "threshold": 0.8719,
+        "message": "GLD moved +0.98% on 2023-08-29, exceeding its volatility-adjusted threshold of 0.87%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-08-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.3911,
+        "threshold": 1.0257,
+        "message": "SPY moved -1.39% on 2023-08-02, exceeding its volatility-adjusted threshold of 1.03%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-31",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.5519,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.55 on 2023-07-31, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-07-27",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5712,
+        "threshold": 1.0555,
+        "message": "GLD moved -1.57% on 2023-07-27, exceeding its volatility-adjusted threshold of 1.06%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-26",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.2825,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.28 on 2023-07-26, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.2096,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.21 on 2023-07-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.9525,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.95 on 2023-07-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.017,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 76.02 on 2023-07-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-18",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 75.2118,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 75.21 on 2023-07-18, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-07-18",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.1456,
+        "threshold": 1.1055,
+        "message": "GLD moved +1.15% on 2023-07-18, exceeding its volatility-adjusted threshold of 1.11%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.353,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.35 on 2023-07-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.902,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.90 on 2023-07-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.5275,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 71.53 on 2023-07-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-07-12",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.3541,
+        "threshold": 1.0062,
+        "message": "GLD moved +1.35% on 2023-07-12, exceeding its volatility-adjusted threshold of 1.01%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-07-03",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.1378,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.14 on 2023-07-03, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-06-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.7675,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.77 on 2023-06-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-06-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.9977,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 77.00 on 2023-06-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-06-14",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.0596,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.06 on 2023-06-14, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-06-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.6424,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.64 on 2023-06-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-06-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.2925,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 70.29 on 2023-06-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-05-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8512,
+        "threshold": 1.6042,
+        "message": "SPY moved +1.85% on 2023-05-05, exceeding its volatility-adjusted threshold of 1.60%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-05-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9297,
+        "threshold": 1.6674,
+        "message": "GLD moved +1.93% on 2023-05-02, exceeding its volatility-adjusted threshold of 1.67%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-04-27",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9908,
+        "threshold": 1.4519,
+        "message": "SPY moved +1.99% on 2023-04-27, exceeding its volatility-adjusted threshold of 1.45%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-04-25",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5874,
+        "threshold": 1.1932,
+        "message": "SPY moved -1.59% on 2023-04-25, exceeding its volatility-adjusted threshold of 1.19%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2023-04-20",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4434,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.44 over five trading days on 2023-04-20. The current 20-day correlation is -0.13, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-03-20",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.2249,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.22 on 2023-03-20, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-03-17",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.912,
+        "threshold": 1.8972,
+        "message": "GLD moved +2.91% on 2023-03-17, exceeding its volatility-adjusted threshold of 1.90%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-03-17",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.1358,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.14 on 2023-03-17, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2023-03-15",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4329,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.43 over five trading days on 2023-03-15. The current 20-day correlation is -0.02, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2023-03-14",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": -0.4246,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by -0.42 over five trading days on 2023-03-14. The current 20-day correlation is -0.01, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-03-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.2948,
+        "threshold": 1.6626,
+        "message": "GLD moved +2.29% on 2023-03-13, exceeding its volatility-adjusted threshold of 1.66%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-03-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.1563,
+        "threshold": 1.3637,
+        "message": "GLD moved +2.16% on 2023-03-10, exceeding its volatility-adjusted threshold of 1.36%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-03-09",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.845,
+        "threshold": 1.8414,
+        "message": "SPY moved -1.84% on 2023-03-09, exceeding its volatility-adjusted threshold of 1.84%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-03-07",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.748,
+        "threshold": 1.0415,
+        "message": "GLD moved -1.75% on 2023-03-07, exceeding its volatility-adjusted threshold of 1.04%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-02-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.0061,
+        "threshold": 1.9428,
+        "message": "SPY moved -2.01% on 2023-02-21, exceeding its volatility-adjusted threshold of 1.94%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-02-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.4958,
+        "threshold": 1.9464,
+        "message": "GLD moved -2.50% on 2023-02-03, exceeding its volatility-adjusted threshold of 1.95%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-02-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.0752,
+        "threshold": 1.6665,
+        "message": "GLD moved -2.08% on 2023-02-02, exceeding its volatility-adjusted threshold of 1.67%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-25",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.0354,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.04 on 2023-01-25, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-24",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 71.6287,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 71.63 on 2023-01-24, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-23",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.51,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.51 on 2023-01-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-19",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.2459,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.25 on 2023-01-19, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-13",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 74.1538,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 74.15 on 2023-01-13, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.9181,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.92 on 2023-01-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2023-01-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.2932,
+        "threshold": 2.2273,
+        "message": "SPY moved +2.29% on 2023-01-06, exceeding its volatility-adjusted threshold of 2.23%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2023-01-06",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8707,
+        "threshold": 1.8601,
+        "message": "GLD moved +1.87% on 2023-01-06, exceeding its volatility-adjusted threshold of 1.86%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-12-15",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.4462,
+        "threshold": 2.3083,
+        "message": "SPY moved -2.45% on 2022-12-15, exceeding its volatility-adjusted threshold of 2.31%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-12-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.7081,
+        "threshold": 1.6271,
+        "message": "GLD moved +1.71% on 2022-12-13, exceeding its volatility-adjusted threshold of 1.63%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-11-30",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.1501,
+        "threshold": 3.0,
+        "message": "SPY moved +3.15% on 2022-11-30, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-11-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.5036,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.50 on 2022-11-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-11-10",
+        "alert_type": "large_price_move",
+        "severity": "high",
+        "observed_value": 5.4954,
+        "threshold": 3.0,
+        "message": "SPY moved +5.50% on 2022-11-10, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-11-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 5.4954,
+        "threshold": 3.3125,
+        "message": "SPY moved +5.50% on 2022-11-10, exceeding its volatility-adjusted threshold of 3.31%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-11-10",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0444,
+        "threshold": 3.0,
+        "message": "GLD moved +3.04% on 2022-11-10, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-11-10",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.0444,
+        "threshold": 2.3453,
+        "message": "GLD moved +3.04% on 2022-11-10, exceeding its volatility-adjusted threshold of 2.35%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-11-08",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.3099,
+        "threshold": 2.104,
+        "message": "GLD moved +2.31% on 2022-11-08, exceeding its volatility-adjusted threshold of 2.10%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-11-04",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0696,
+        "threshold": 3.0,
+        "message": "GLD moved +3.07% on 2022-11-04, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-11-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 3.0696,
+        "threshold": 1.701,
+        "message": "GLD moved +3.07% on 2022-11-04, exceeding its volatility-adjusted threshold of 1.70%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-10-04",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0987,
+        "threshold": 3.0,
+        "message": "SPY moved +3.10% on 2022-10-04, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-10-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.431,
+        "threshold": 1.9328,
+        "message": "GLD moved +2.43% on 2022-10-03, exceeding its volatility-adjusted threshold of 1.93%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-09-30",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.7581,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 28.76 on 2022-09-30, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-09-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.0787,
+        "threshold": 1.6897,
+        "message": "GLD moved +2.08% on 2022-09-28, exceeding its volatility-adjusted threshold of 1.69%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-09-27",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 27.3061,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 27.31 on 2022-09-27, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-09-27",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.4654,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 28.47 on 2022-09-27, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-09-26",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 27.7272,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 27.73 on 2022-09-26, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-09-26",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 27.0122,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 27.01 on 2022-09-26, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-09-23",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.3735,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 29.37 on 2022-09-23, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-09-23",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.7277,
+        "threshold": 1.5751,
+        "message": "GLD moved -1.73% on 2022-09-23, exceeding its volatility-adjusted threshold of 1.58%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-09-15",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.8679,
+        "threshold": 1.4155,
+        "message": "GLD moved -1.87% on 2022-09-15, exceeding its volatility-adjusted threshold of 1.42%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-09-13",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.3482,
+        "threshold": 3.0,
+        "message": "SPY moved -4.35% on 2022-09-13, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-09-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -4.3482,
+        "threshold": 2.5408,
+        "message": "SPY moved -4.35% on 2022-09-13, exceeding its volatility-adjusted threshold of 2.54%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-08-26",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.3849,
+        "threshold": 3.0,
+        "message": "SPY moved -3.38% on 2022-08-26, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-08-26",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.3849,
+        "threshold": 2.1081,
+        "message": "SPY moved -3.38% on 2022-08-26, exceeding its volatility-adjusted threshold of 2.11%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-08-16",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.534,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.53 on 2022-08-16, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-08-15",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.0747,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 73.07 on 2022-08-15, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-08-12",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.134,
+        "threshold": 70,
+        "message": "SPY recorded an RSI of 72.13 on 2022-08-12, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-08-04",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.654,
+        "threshold": 1.376,
+        "message": "GLD moved +1.65% on 2022-08-04, exceeding its volatility-adjusted threshold of 1.38%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-07-27",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.5966,
+        "threshold": 2.3444,
+        "message": "SPY moved +2.60% on 2022-07-27, exceeding its volatility-adjusted threshold of 2.34%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.411,
+        "threshold": 1.3537,
+        "message": "GLD moved +1.41% on 2022-07-21, exceeding its volatility-adjusted threshold of 1.35%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-20",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 23.8147,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 23.81 on 2022-07-20, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-07-19",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.7019,
+        "threshold": 2.5813,
+        "message": "SPY moved +2.70% on 2022-07-19, exceeding its volatility-adjusted threshold of 2.58%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-19",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.6747,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.67 on 2022-07-19, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-18",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 24.543,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 24.54 on 2022-07-18, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-15",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 23.7302,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 23.73 on 2022-07-15, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-14",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 24.2476,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 24.25 on 2022-07-14, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-13",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.3138,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 28.31 on 2022-07-13, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-12",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 24.3161,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 24.32 on 2022-07-12, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-11",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 25.3385,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 25.34 on 2022-07-11, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-08",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.8592,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.86 on 2022-07-08, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-07",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.5297,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.53 on 2022-07-07, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-06",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.1325,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.13 on 2022-07-06, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-07-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.121,
+        "threshold": 1.7966,
+        "message": "GLD moved -2.12% on 2022-07-05, exceeding its volatility-adjusted threshold of 1.80%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-06-24",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.1794,
+        "threshold": 3.0,
+        "message": "SPY moved +3.18% on 2022-06-24, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-06-16",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.3096,
+        "threshold": 3.0,
+        "message": "SPY moved -3.31% on 2022-06-16, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2022-06-15",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4114,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.41 over five trading days on 2022-06-15. The current 20-day correlation is +0.34, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-06-13",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.7968,
+        "threshold": 3.0,
+        "message": "SPY moved -3.80% on 2022-06-13, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-06-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.7968,
+        "threshold": 3.7039,
+        "message": "SPY moved -3.80% on 2022-06-13, exceeding its volatility-adjusted threshold of 3.70%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-06-13",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.6412,
+        "threshold": 1.5515,
+        "message": "GLD moved -2.64% on 2022-06-13, exceeding its volatility-adjusted threshold of 1.55%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-05-18",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -4.0312,
+        "threshold": 3.0,
+        "message": "SPY moved -4.03% on 2022-05-18, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-05-13",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.9883,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 29.99 on 2022-05-13, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-05-09",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.2017,
+        "threshold": 3.0,
+        "message": "SPY moved -3.20% on 2022-05-09, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-05-05",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.5543,
+        "threshold": 3.0,
+        "message": "SPY moved -3.55% on 2022-05-05, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-05-05",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.5543,
+        "threshold": 3.4704,
+        "message": "SPY moved -3.55% on 2022-05-05, exceeding its volatility-adjusted threshold of 3.47%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-05-04",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": 3.0453,
+        "threshold": 3.0,
+        "message": "SPY moved +3.05% on 2022-05-04, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-05-02",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.854,
+        "threshold": 1.4794,
+        "message": "GLD moved -1.85% on 2022-05-02, exceeding its volatility-adjusted threshold of 1.48%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-04-29",
+        "alert_type": "large_price_move",
+        "severity": "medium",
+        "observed_value": -3.6956,
+        "threshold": 3.0,
+        "message": "SPY moved -3.70% on 2022-04-29, exceeding the 3% daily movement threshold."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-04-29",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -3.6956,
+        "threshold": 2.802,
+        "message": "SPY moved -3.70% on 2022-04-29, exceeding its volatility-adjusted threshold of 2.80%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-04-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.526,
+        "threshold": 2.4568,
+        "message": "SPY moved +2.53% on 2022-04-28, exceeding its volatility-adjusted threshold of 2.46%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-04-26",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.8961,
+        "threshold": 2.3272,
+        "message": "SPY moved -2.90% on 2022-04-26, exceeding its volatility-adjusted threshold of 2.33%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-04-25",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.7971,
+        "threshold": 1.4872,
+        "message": "GLD moved -1.80% on 2022-04-25, exceeding its volatility-adjusted threshold of 1.49%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-04-22",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.7439,
+        "threshold": 2.1389,
+        "message": "SPY moved -2.74% on 2022-04-22, exceeding its volatility-adjusted threshold of 2.14%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-04-19",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5113,
+        "threshold": 1.4571,
+        "message": "GLD moved -1.51% on 2022-04-19, exceeding its volatility-adjusted threshold of 1.46%."
+    },
+    {
+        "symbol": "SPY-GLD",
+        "date": "2022-04-06",
+        "alert_type": "correlation_shift",
+        "severity": "medium",
+        "observed_value": 0.4006,
+        "threshold": 0.4,
+        "message": "SPY-GLD rolling correlation changed by +0.40 over five trading days on 2022-04-06. The current 20-day correlation is -0.15, and the absolute change exceeded the 0.40 threshold."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-09",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.9711,
+        "threshold": 2.0386,
+        "message": "GLD moved -2.97% on 2022-03-09, exceeding its volatility-adjusted threshold of 2.04%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-08",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.7359,
+        "threshold": 1.7768,
+        "message": "GLD moved +2.74% on 2022-03-08, exceeding its volatility-adjusted threshold of 1.78%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-08",
+        "alert_type": "rsi_overbought",
+        "severity": "high",
+        "observed_value": 81.1635,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 81.16 on 2022-03-08, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-03-07",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -2.9479,
+        "threshold": 2.7372,
+        "message": "SPY moved -2.95% on 2022-03-07, exceeding its volatility-adjusted threshold of 2.74%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-07",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 76.1675,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 76.17 on 2022-03-07, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-04",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 72.5484,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 72.55 on 2022-03-04, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-01",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.8163,
+        "threshold": 1.3661,
+        "message": "GLD moved +1.82% on 2022-03-01, exceeding its volatility-adjusted threshold of 1.37%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-03-01",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 73.4066,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 73.41 on 2022-03-01, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-02-23",
+        "alert_type": "rsi_overbought",
+        "severity": "medium",
+        "observed_value": 70.9914,
+        "threshold": 70,
+        "message": "GLD recorded an RSI of 70.99 on 2022-02-23, indicating an overbought momentum condition relative to the RSI threshold of 70."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-02-11",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.9055,
+        "threshold": 1.3857,
+        "message": "GLD moved +1.91% on 2022-02-11, exceeding its volatility-adjusted threshold of 1.39%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-28",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 2.4835,
+        "threshold": 1.6749,
+        "message": "SPY moved +2.48% on 2022-01-28, exceeding its volatility-adjusted threshold of 1.67%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-27",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 24.5099,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 24.51 on 2022-01-27, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-26",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 25.5757,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 25.58 on 2022-01-26, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-01-26",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.6166,
+        "threshold": 1.4957,
+        "message": "GLD moved -1.62% on 2022-01-26, exceeding its volatility-adjusted threshold of 1.50%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-25",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.1128,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 26.11 on 2022-01-25, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-24",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.8878,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 28.89 on 2022-01-24, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-21",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.9631,
+        "threshold": 1.7997,
+        "message": "SPY moved -1.96% on 2022-01-21, exceeding its volatility-adjusted threshold of 1.80%."
+    },
+    {
+        "symbol": "SPY",
+        "date": "2022-01-21",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.3711,
+        "threshold": 30,
+        "message": "SPY recorded an RSI of 26.37 on 2022-01-21, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-01-19",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": 1.5881,
+        "threshold": 1.3642,
+        "message": "GLD moved +1.59% on 2022-01-19, exceeding its volatility-adjusted threshold of 1.36%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2022-01-03",
+        "alert_type": "volatility_adjusted_move",
+        "severity": "medium",
+        "observed_value": -1.5384,
+        "threshold": 1.1077,
+        "message": "GLD moved -1.54% on 2022-01-03, exceeding its volatility-adjusted threshold of 1.11%."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-14",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.2945,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 29.29 on 2021-12-14, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-09",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.871,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.87 on 2021-12-09, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-08",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 29.2271,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 29.23 on 2021-12-08, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-07",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 28.715,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 28.71 on 2021-12-07, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-06",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 25.4303,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 25.43 on 2021-12-06, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-03",
+        "alert_type": "rsi_oversold",
+        "severity": "medium",
+        "observed_value": 26.2096,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 26.21 on 2021-12-03, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    },
+    {
+        "symbol": "GLD",
+        "date": "2021-12-02",
+        "alert_type": "rsi_oversold",
+        "severity": "high",
+        "observed_value": 18.331,
+        "threshold": 30,
+        "message": "GLD recorded an RSI of 18.33 on 2021-12-02, indicating an oversold momentum condition relative to the RSI threshold of 30."
+    }
+]
